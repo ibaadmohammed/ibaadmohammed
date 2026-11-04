@@ -83,15 +83,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ibaadmohammed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibaadmohammed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm always happy to chat about web development, AI/ML, or collaboration ideas. Check out my [portfolio](https://portfolio-react-pi-rose.vercel.app/) or reach out on LinkedIn!
