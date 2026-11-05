@@ -61,7 +61,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | 🏙️ **[CivicOS](https://civicos-web.vercel.app/)** | AI-powered civic accountability platform. I built the full React frontend: geo-tagged issue reporting, a live danger-zone heatmap of Hyderabad, AI smart routing, and an MLA performance leaderboard (543 MLAs). | React, TypeScript, HTML, CSS |
-| 🩸 **[BloodBridge](blood-bridge-kappa-lilac.vercel.app/)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, Leaflet, React 18, Vite |
+| 🩸 **[BloodBridge](https://blood-bridge-kappa-lilac.vercel.app/)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, Leaflet, React 18, Vite |
 | 🎓 **[MJCET Attendance Portal](project-rho-taupe.vercel.app)** | Attendance system with separate admin, teacher, and student portals and live sync via Firebase Realtime DB and Auth. | HTML, CSS, JavaScript, Firebase |
 | 💰 **[Personal Finance Dashboard](https://personal-finanace-dashboard.vercel.app/)** | Track income and expenses in INR with budgets, goals, and an analytics panel (savings rate, top expense category). | HTML, CSS, JavaScript |
 | 🎤 **[AI Interview Prep Tool](interview-preparation-tool.vercel.app)** | Interview practice across 5 question types, with a timed mock-interview mode, scoring, and analytics. | HTML, CSS, JavaScript |
