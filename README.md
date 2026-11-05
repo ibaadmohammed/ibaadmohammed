@@ -65,7 +65,7 @@
 | 🎓 **[MJCET Attendance Portal](https://github.com/ibaadmohammed/mjcetattendance)** | Attendance system with separate admin, teacher, and student portals and live sync via Firebase Realtime DB and Auth. | HTML, CSS, JavaScript, Firebase |
 | 💰 **[Personal Finance Dashboard](YOUR-FINANCE-REPO-LINK)** | Track income and expenses in INR with budgets, goals, and an analytics panel (savings rate, top expense category). | HTML, CSS, JavaScript |
 | 🎤 **[AI Interview Prep Tool](YOUR-INTERVIEW-REPO-LINK)** | Interview practice across 5 question types, with a timed mock-interview mode, scoring, and analytics. | HTML, CSS, JavaScript |
-| ✅ **[To-Do List](https://github.com/ibaadmohammed/To-Do-List)** | Simple task manager to add and track daily to-dos. | JavaScript |
+| 🌱 **[EcoQuest](https://github.com/ibaadmohammed/EcoQuest)** | An interactive web project focused on making environmental awareness and eco-friendly engagement more accessible through a digital experience. | JavaScript |
 
 ---
 
