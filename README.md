@@ -16,7 +16,7 @@
 - 🎓 4th-year **B.E. Information Technology** student at **Muffakham Jah College of Engineering and Technology (MJCET)**, Hyderabad, India (CGPA 8.12)
 - ⚛️ I build clean, responsive web apps with **React.js**, **Tailwind CSS**, and **Firebase**
 - 🤖 Exploring **Machine Learning, Data Science, and Generative AI**
-- 🧠 Practising **Data Structures & Algorithms** on LeetCode and GeeksforGeeks
+- 🧠 Practiced **Data Structures & Algorithms** on LeetCode and GeeksforGeeks
 - 💼 Completed an **AI-Driven Software Development internship** (Pantech Solutions × SVNIT Surat)
 - 🏆 Shortlisted in the **top 30 of 600+ teams** at **Hack Revolution 2025**
 - 🤝 Open to internships, collaborations, and entry-level opportunities
@@ -60,7 +60,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | 🏙️ **[CivicOS](YOUR-CIVICOS-LIVE-LINK)** | AI-powered civic accountability platform. I built the full React frontend: geo-tagged issue reporting, a live danger-zone heatmap of Hyderabad, AI smart routing, and an MLA performance leaderboard (543 MLAs). | React, TypeScript, HTML, CSS |
-| 🩸 **[BloodBridge](YOUR-BLOODBRIDGE-REPO-LINK)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, *(add the rest of your stack)* |
+| 🩸 **[BloodBridge](YOUR-BLOODBRIDGE-REPO-LINK)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, Leaflet, React 18, Vite |
 | 🎓 **[MJCET Attendance Portal](https://github.com/ibaadmohammed/mjcetattendance)** | Attendance system with separate admin, teacher, and student portals and live sync via Firebase Realtime DB and Auth. | HTML, CSS, JavaScript, Firebase |
 | 💰 **[Personal Finance Dashboard](YOUR-FINANCE-REPO-LINK)** | Track income and expenses in INR with budgets, goals, and an analytics panel (savings rate, top expense category). | HTML, CSS, JavaScript |
 | 🎤 **[AI Interview Prep Tool](YOUR-INTERVIEW-REPO-LINK)** | Interview practice across 5 question types, with a timed mock-interview mode, scoring, and analytics. | HTML, CSS, JavaScript |
