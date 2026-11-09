@@ -15,7 +15,7 @@
 
 - 🎓 4th-year **B.E. Information Technology** student at **Muffakham Jah College of Engineering and Technology (MJCET)**, Hyderabad, India (CGPA 8.12)
 - ⚛️ I build clean, responsive web apps with **React.js**, **Express.js**, **Typescript** and **Node.js**
-- 🤖 Exploring **Machine Learning, Data Science, and Generative AI**
+- 🤖 Exploring **Machine Learning, Data Science and Generative AI**
 - 🧠 Practiced **Data Structures & Algorithms** on LeetCode and GeeksforGeeks
 - 💼 Completed an **AI-Driven Software Development internship** (Pantech Solutions × SVNIT Surat)
 - 🏆 Shortlisted in the **top 30 of 600+ teams** at **Hack Revolution 2025**
