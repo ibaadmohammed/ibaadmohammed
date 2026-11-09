@@ -76,6 +76,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Pyplot](https://img.shields.io/badge/Pyplot-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22.0-orange?logo=tensorflow)
+![COCO--SSD](https://img.shields.io/badge/Model-COCO--SSD-red)
 
 
 ---
