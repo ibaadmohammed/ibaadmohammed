@@ -94,7 +94,7 @@
 | 📅 **[EventSync](https://eventsync-delta.vercel.app/)** | Event management dashboard to create, manage, search, filter, and delete ecreate with browser-based data persistence. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
 | 🚀 **[LeadFlow AI](https://leadflow-ai-ten-khaki.vercel.app/)** | CRM-style lead management application with lead creation, pipeline stage updates, search, filtering, and analytics metrics. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
 | 📋 **[TrackWise](https://trackwise-phi-ten.vercel.app/)** | Personal productivity and task management application with priorities, tags, progress tracking, and a rule-based virtual assistant. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
-| 👁️ **[VisionGuard](YOUR_VISIONGUARD_URL)** | Browser-based computer vision application that detects objects in uploaded images using a pre-trained COCO-SSD machine learning model. | HTML, CSS, JavaScript, React, TensorFlow.js, COCO-SSD, Vite |
+| 👁️ **[VisionGuard](https://visionguard-six.vercel.app/)** | Browser-based computer vision application that detects objects in uploaded images using a pre-trained COCO-SSD machine learning model. | HTML, CSS, JavaScript, React, TensorFlow.js, COCO-SSD, Vite |
 ---
 
 ### 💼 Experience
