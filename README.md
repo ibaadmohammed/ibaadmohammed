@@ -70,7 +70,8 @@
 
 **🧰 Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git]
+(https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -81,6 +82,7 @@
 ![PyFiglet](https://img.shields.io/badge/PyFiglet-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Windsurf](https://img.shields.io/badge/Windsurf-IDE-00A6FF?style=for-the-badge&logo=codeium&logoColor=white)](https://windsurf.com/)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 ---
 
 ### 🚀 Featured Projects
@@ -88,7 +90,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | 🏙️ **[CivicOS](https://civicos-web.vercel.app/)** | AI-powered civic accountability platform. I built the full React frontend: geo-tagged issue reporting, a live danger-zone heatmap of Hyderabad, AI smart routing, and an MLA performance leaderboard (543 MLAs). | React, TypeScript, HTML, CSS |
-| 🩸 **[BloodBridge](https://blood-bridge-kappa-lilac.vercel.app/)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, Leaflet, React 18, Vite |
+| 🩸 **[BloodBridge](https://blood-bridge-kappa-lilac.vercel.app/)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, Typescript ,PostgreSQL|
 | 📅 **[EventSync](YOUR_EVENTSYNC_URL)** | Event management dashboard to create, manage, search, filter, and delete events, with browser-based data persistence. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
 | 🚀 **[LeadFlow AI](YOUR_LEADFLOW_URL)** | CRM-style lead management application with lead creation, pipeline stage updates, search, filtering, and analytics metrics. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
 | 📋 **[TrackWise](YOUR_TRACKWISE_URL)** | Personal productivity and task management application with priorities, tags, progress tracking, and a rule-based virtual assistant. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
