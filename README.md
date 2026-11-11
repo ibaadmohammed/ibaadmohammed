@@ -92,7 +92,7 @@
 | 🏙️ **[CivicOS](https://civicos-web.vercel.app/)** | AI-powered civic accountability platform. I built the full React frontend: geo-tagged issue reporting, a live danger-zone heatmap of Hyderabad, AI smart routing, and an MLA performance leaderboard (543 MLAs). | React, TypeScript, HTML, CSS |
 | 🩸 **[BloodBridge](https://blood-bridge-kappa-lilac.vercel.app/)** | Blood donation platform connecting donors with people in urgent need. *(Replace with your real features, e.g. donor registration, blood requests, search by blood group and location.)* | Node.js, Express.js, Typescript ,PostgreSQL|
 | 📅 **[EventSync](https://eventsync-delta.vercel.app/)** | Event management dashboard to create, manage, search, filter, and delete ecreate with browser-based data persistence. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
-| 🚀 **[LeadFlow AI](YOUR_LEADFLOW_URL)** | CRM-style lead management application with lead creation, pipeline stage updates, search, filtering, and analytics metrics. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
+| 🚀 **[LeadFlow AI](https://leadflow-ai-ten-khaki.vercel.app/)** | CRM-style lead management application with lead creation, pipeline stage updates, search, filtering, and analytics metrics. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
 | 📋 **[TrackWise](YOUR_TRACKWISE_URL)** | Personal productivity and task management application with priorities, tags, progress tracking, and a rule-based virtual assistant. | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
 | 👁️ **[VisionGuard](YOUR_VISIONGUARD_URL)** | Browser-based computer vision application that detects objects in uploaded images using a pre-trained COCO-SSD machine learning model. | HTML, CSS, JavaScript, React, TensorFlow.js, COCO-SSD, Vite |
 ---
