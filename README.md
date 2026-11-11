@@ -78,6 +78,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![PyFiglet](https://img.shields.io/badge/PyFiglet-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Windsurf](https://img.shields.io/badge/Windsurf-IDE-00A6FF?style=for-the-badge&logo=codeium&logoColor=white)](https://windsurf.com/)
 
 ---
 
