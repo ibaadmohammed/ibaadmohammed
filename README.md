@@ -85,6 +85,7 @@
 ![PyFiglet](https://img.shields.io/badge/PyFiglet-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Windsurf](https://img.shields.io/badge/Windsurf-IDE-00A6FF?style=for-the-badge&logo=codeium&logoColor=white)](https://windsurf.com/)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ---
 
