@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Mohammed Mohtashim Ibaad
 
-<p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Mohammed Mohtashim Ibaad - Full Stack Developer, React Enthusiast and Aspiring ML/GenAI Engineer" />
-</p>
-
 <h3 align="center">
   💻 Full-Stack Developer | ⚛️ React Enthusiast | 🤖 Aspiring ML / GenAI Engineer
 </h3>
