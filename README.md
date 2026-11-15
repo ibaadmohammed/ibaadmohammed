@@ -192,10 +192,7 @@ Pantech Solutions India Pvt. Ltd. × SVNIT Surat
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ibaadmohammed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibaadmohammed&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+
 
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibaadmohammed&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
