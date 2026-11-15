@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed Mohtashim Ibaad
 
 <h3 align="center">
-  💻 Full-Stack Developer | ⚛️ React Enthusiast | 🤖 Aspiring ML / GenAI Engineer
+  💻 Full-Stack Developer | ⚛️ React Enthusiast | 🤖 Aspiring AIML Engineer
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Modern+Full-Stack+Applications;Exploring+Machine+Learning+%26+InternetOfThings;Turning+Ideas+Into+Real-World+Projects;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Modern+Full-Stack+Applications;Exploring+Machine+Learning+%26+Internet Of Things;Turning+Ideas+Into+Real-World+Projects;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 - 🎓 4th-year **B.E. Information Technology** student at **Muffakham Jah College of Engineering and Technology (MJCET)**, Hyderabad, India.
 - 📊 Current CGPA: **8.12 / 10**
 - ⚛️ Building modern, responsive applications using **React.js, TypeScript, Node.js and Express.js**.
-- 🤖 Exploring **Machine Learning, Data Science, Artificial Intelligence and Generative AI**.
+- 🤖 Exploring **Machine Learning, Data Science, Artificial Intelligence and Internet Of Things**.
 - 🧠 Practicing Data Structures & Algorithms on **LeetCode and GeeksforGeeks**.
 - 💼 Completed an **AI-Driven Software Development Internship** at Pantech Solutions India Pvt. Ltd. × SVNIT Surat.
 - 🏆 Shortlisted in the **Top 30 among 600+ teams** at Hack Revolution 2025.
