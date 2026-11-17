@@ -120,7 +120,7 @@ A civic technology platform designed to improve urban accountability through AI-
 
 A blood donation platform connecting donors with people in urgent need through donor registration, blood requests, blood bank discovery, appointment booking, cancellation and donation analytics.
 
-**Tech:** React, Node.js, Express.js, JSON Database, Leaflet, Chart.js
+**Tech:** React, Node.js, Express.js, Neon Prisma, Leaflet, Chart.js
 
 🔗 [Live Demo](https://blood-bridge-kappa-lilac.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/BloodBridge)
 
