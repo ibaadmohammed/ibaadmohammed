@@ -132,7 +132,7 @@ A blood donation platform connecting donors with people in urgent need through d
 
 ---
 
-### 📅 EventSync
+### 📅 EventSync[Internship Project]
 **Event Management Dashboard**
 
 An event management application to create, manage, search, filter and delete events with browser-based data persistence.
@@ -143,7 +143,7 @@ An event management application to create, manage, search, filter and delete eve
 
 ---
 
-### 🚀 LeadFlow AI
+### 🚀 LeadFlow AI[Internship Project]
 **CRM & Lead Management Application**
 
 A CRM-style application featuring lead creation, pipeline stage management, search, filtering and analytics metrics.
@@ -154,7 +154,7 @@ A CRM-style application featuring lead creation, pipeline stage management, sear
 
 ---
 
-### 📋 TrackWise
+### 📋 TrackWise[Internship Project]
 **Personal Productivity & Task Management**
 
 A productivity application featuring task priorities, tags, progress tracking and a rule-based virtual assistant.
@@ -165,7 +165,7 @@ A productivity application featuring task priorities, tags, progress tracking an
 
 ---
 
-### 👁️ VisionGuard
+### 👁️ VisionGuard[Internship Project]
 **Browser-Based Computer Vision Application**
 
 An image-based object detection application using a pre-trained COCO-SSD machine learning model through TensorFlow.js.
