@@ -173,11 +173,79 @@ Key Features:
 - Interactive bounding-box visualization.
 - Adjustable confidence thresholds and object class filtering.
 - Detection counts and inference-time analytics.
-- Manual ground-truth bounding-box annotation.
-- Model comparison and benchmarking.
-- Exportable detection images and JSON reports.
+🚀 Featured Projects
 
-Tech: React, JavaScript, Vite, TensorFlow.js, COCO-SSD, Hugging Face Transformers.js, YOLOv10s, ONNX Runtime
+🏙️ CIVICOS
+
+AI-Powered Civic Accountability & Urban Governance Platform
+
+An AI-powered civic technology platform focused on improving urban governance, citizen engagement and public accountability. CIVICOS enables citizens to report infrastructure and sanitation issues such as potholes, damaged roads, garbage accumulation and waterlogging through location-aware reporting.
+
+It combines AI-assisted issue understanding, geospatial visualization, intelligent complaint routing and analytics to create a more transparent civic grievance management ecosystem.
+
+⚡ Key Highlights
+
+- 🤖 AI-assisted civic issue identification and categorization.
+- 📍 Geo-tagged reporting and location-based issue tracking.
+- 🧠 Intelligent complaint routing to relevant authorities.
+- 🗺️ Geographical heatmaps for identifying recurring civic problems.
+- 📊 Analytics and governance accountability insights.
+
+🛠️ Tech Stack
+
+"Next.js" "React" "TypeScript" "PostgreSQL" "Leaflet" "AI/ML"
+
+🔗 "Live Demo" (https://civicos-web.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/CIVICOS)
+
+---
+
+🩸 BloodBridge
+
+Smart Blood Donation, Emergency Response & Management Platform
+
+A full-stack blood donation and management platform designed to connect blood donors, recipients and blood banks through a centralized digital ecosystem. BloodBridge simplifies donor discovery, blood request management and donation scheduling while supporting faster responses to urgent blood requirements.
+
+The platform combines donor management, emergency blood alerts, appointment scheduling, geographical blood bank discovery and AI-powered assistance to make blood donation more accessible and organized.
+
+⚡ Key Highlights
+
+- 🩸 Donor registration and blood group-based donor directory.
+- 🚨 Emergency blood alert system for urgent requirements.
+- 🏥 Blood bank discovery with geographical mapping.
+- 📅 Donation appointment booking and cancellation.
+- 📊 Analytics dashboard for donor and blood request insights.
+- 🤖 AI-powered Gemini assistant for interactive user support.
+
+🛠️ Tech Stack
+
+"React" "JavaScript" "Node.js" "Express.js" "Leaflet" "Chart.js" "Google Gemini API" "JSON"
+
+🔗 "Live Demo" (https://blood-bridge-kappa-lilac.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/BloodBridge)
+
+---
+
+👁️ VisionGuard
+
+AI-Powered Multi-Model Object Detection & Computer Vision Platform
+
+A browser-based Machine Learning and Computer Vision platform developed to explore deep learning, multi-model inference and object detection performance evaluation.
+
+VisionGuard integrates YOLOv10s and COCO-SSD to detect and classify objects in uploaded images. It provides an interactive detection environment with bounding-box visualization, confidence-based filtering, inference analytics, ground-truth annotation and model benchmarking.
+
+⚡ Key Highlights
+
+- 🎯 Multi-model object detection using YOLOv10s and COCO-SSD.
+- 🧠 Browser-based inference with Transformers.js and TensorFlow.js.
+- 📦 Interactive bounding-box visualization.
+- 🎚️ Adjustable confidence thresholds and object class filtering.
+- 📈 Detection counts and inference-time analytics.
+- ✏️ Manual ground-truth annotation.
+- ⚖️ Model comparison and benchmarking against annotated images.
+- 📥 Exportable detection images and JSON reports.
+
+🛠️ Tech Stack
+
+"React" "JavaScript" "Vite" "TensorFlow.js" "COCO-SSD" "Hugging Face Transformers.js" "YOLOv10s" "ONNX Runtime"
 
 🔗 "Live Demo" (https://visionguard-six.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/visionguard)
 
