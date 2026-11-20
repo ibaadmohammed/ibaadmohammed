@@ -108,107 +108,38 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🏙️ CIVICOS
+### 🏙️ CIVICOS
+**AI-Powered Civic Accountability & Urban Governance Platform**
 
-AI-Powered Civic Accountability & Urban Governance Platform
+An AI-powered civic technology platform focused on improving **urban governance, citizen engagement and public accountability**. CIVICOS enables citizens to report infrastructure and sanitation issues such as potholes, damaged roads, garbage accumulation and waterlogging through location-aware reporting.
 
-CIVICOS is an AI-powered civic technology platform designed to strengthen urban governance, improve public accountability and simplify civic issue reporting. It enables citizens to report infrastructure and sanitation problems such as potholes, damaged roads, garbage accumulation and waterlogging through location-aware reporting.
+It combines **AI-assisted issue understanding, geospatial visualization, intelligent complaint routing and analytics** to create a more transparent civic grievance management ecosystem.
 
-The platform combines AI-assisted issue understanding, geolocation, intelligent authority assignment, issue tracking and analytics to create a more transparent civic grievance management ecosystem. It also aims to improve accountability through constituency-level insights and geographical visualization of recurring civic problems.
-
-Key Features:
-
-- AI-assisted civic issue identification and categorization.
-- Geo-tagged issue reporting and location-based tracking.
-- Intelligent complaint routing to relevant authorities.
-- Civic issue monitoring and status tracking.
-- Geographical heatmaps for identifying high-priority problem areas.
-- Analytics and governance accountability insights.
-
-Tech: Next.js, React, TypeScript, PostgreSQL, Leaflet, AI/ML
-
-🔗 "Live Demo" (https://civicos-web.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/CIVICOS)
-
----
-
-🩸 BloodBridge
-
-Smart Blood Donation, Emergency Response & Management Platform
-
-BloodBridge is a full-stack blood donation and management platform designed to connect blood donors, recipients and blood banks through a centralized digital ecosystem. It aims to simplify the blood donation process, improve donor accessibility and support faster responses to urgent blood requirements.
-
-The platform provides donor registration, blood request management, blood bank discovery, appointment scheduling, donation cancellation and analytics. It also incorporates an Emergency Blood Alert System for urgent donation requirements and an AI-powered assistant to help users navigate the platform and access relevant information.
-
-Key Features:
-
-- Donor registration and blood group-based donor directory.
-- Blood request creation and management.
-- Emergency blood alert system.
-- Blood bank discovery with geographical mapping.
-- Donation appointment booking and cancellation.
-- Appointment slot availability and scheduling management.
-- Analytics dashboard for monitoring donors and blood requests.
-- AI-powered Gemini assistant for interactive user support.
-
-Tech: React, JavaScript, Node.js, Express.js, JSON-based data persistence, Leaflet, Chart.js, Google Gemini API
-
-🔗 "Live Demo" (https://blood-bridge-kappa-lilac.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/BloodBridge)
-
----
-
-👁️ VisionGuard
-
-AI-Powered Multi-Model Object Detection & Computer Vision Platform
-
-VisionGuard is a browser-based machine learning and computer vision application developed to explore deep learning-based object detection, multi-model inference and model performance evaluation. It integrates YOLOv10s and COCO-SSD to detect and classify objects in uploaded images through browser-based inference.
-
-The platform provides an interactive detection environment with visual bounding boxes, adjustable confidence thresholds, object class filtering, inference-time measurement and detection analytics. It also introduces ground-truth annotation and model benchmarking capabilities, allowing predictions from different detection models to be evaluated against manually annotated objects.
-
-Key Features:
-
-- Multi-model object detection using YOLOv10s and COCO-SSD.
-- Browser-based inference using Hugging Face Transformers.js and TensorFlow.js.
-- Interactive bounding-box visualization.
-- Adjustable confidence thresholds and object class filtering.
-- Detection counts and inference-time analytics.
-🚀 Featured Projects
-
-🏙️ CIVICOS
-
-AI-Powered Civic Accountability & Urban Governance Platform
-
-An AI-powered civic technology platform focused on improving urban governance, citizen engagement and public accountability. CIVICOS enables citizens to report infrastructure and sanitation issues such as potholes, damaged roads, garbage accumulation and waterlogging through location-aware reporting.
-
-It combines AI-assisted issue understanding, geospatial visualization, intelligent complaint routing and analytics to create a more transparent civic grievance management ecosystem.
-
-⚡ Key Highlights
-
+**⚡ Key Highlights**
 - 🤖 AI-assisted civic issue identification and categorization.
 - 📍 Geo-tagged reporting and location-based issue tracking.
 - 🧠 Intelligent complaint routing to relevant authorities.
 - 🗺️ Geographical heatmaps for identifying recurring civic problems.
 - 📊 Analytics and governance accountability insights.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-"Next.js" "React" "TypeScript" "PostgreSQL" "Leaflet" "AI/ML"
+`Next.js` `React` `TypeScript` `PostgreSQL` `Leaflet` `AI/ML`
 
-🔗 "Live Demo" (https://civicos-web.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/CIVICOS)
+🔗 [Live Demo](https://civicos-web.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/CIVICOS)
 
 ---
 
-🩸 BloodBridge
+### 🩸 BloodBridge
+**Smart Blood Donation, Emergency Response & Management Platform**
 
-Smart Blood Donation, Emergency Response & Management Platform
+A full-stack blood donation and management platform designed to connect **blood donors, recipients and blood banks** through a centralized digital ecosystem. BloodBridge simplifies donor discovery, blood request management and donation scheduling while supporting faster responses to urgent blood requirements.
 
-A full-stack blood donation and management platform designed to connect blood donors, recipients and blood banks through a centralized digital ecosystem. BloodBridge simplifies donor discovery, blood request management and donation scheduling while supporting faster responses to urgent blood requirements.
+The platform combines **donor management, emergency blood alerts, appointment scheduling, geographical blood bank discovery and AI-powered assistance** to make blood donation more accessible and organized.
 
-The platform combines donor management, emergency blood alerts, appointment scheduling, geographical blood bank discovery and AI-powered assistance to make blood donation more accessible and organized.
-
-⚡ Key Highlights
-
+**⚡ Key Highlights**
 - 🩸 Donor registration and blood group-based donor directory.
 - 🚨 Emergency blood alert system for urgent requirements.
 - 🏥 Blood bank discovery with geographical mapping.
@@ -216,24 +147,22 @@ The platform combines donor management, emergency blood alerts, appointment sche
 - 📊 Analytics dashboard for donor and blood request insights.
 - 🤖 AI-powered Gemini assistant for interactive user support.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-"React" "JavaScript" "Node.js" "Express.js" "Leaflet" "Chart.js" "Google Gemini API" "JSON"
+`React` `JavaScript` `Node.js` `Express.js` `Leaflet` `Chart.js` `Google Gemini API` `JSON`
 
-🔗 "Live Demo" (https://blood-bridge-kappa-lilac.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/BloodBridge)
+🔗 [Live Demo](https://blood-bridge-kappa-lilac.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/BloodBridge)
 
 ---
 
-👁️ VisionGuard
+### 👁️ VisionGuard
+**AI-Powered Multi-Model Object Detection & Computer Vision Platform**
 
-AI-Powered Multi-Model Object Detection & Computer Vision Platform
+A browser-based **Machine Learning and Computer Vision platform** developed to explore deep learning, multi-model inference and object detection performance evaluation.
 
-A browser-based Machine Learning and Computer Vision platform developed to explore deep learning, multi-model inference and object detection performance evaluation.
+VisionGuard integrates **YOLOv10s and COCO-SSD** to detect and classify objects in uploaded images. It provides an interactive detection environment with bounding-box visualization, confidence-based filtering, inference analytics, ground-truth annotation and model benchmarking.
 
-VisionGuard integrates YOLOv10s and COCO-SSD to detect and classify objects in uploaded images. It provides an interactive detection environment with bounding-box visualization, confidence-based filtering, inference analytics, ground-truth annotation and model benchmarking.
-
-⚡ Key Highlights
-
+**⚡ Key Highlights**
 - 🎯 Multi-model object detection using YOLOv10s and COCO-SSD.
 - 🧠 Browser-based inference with Transformers.js and TensorFlow.js.
 - 📦 Interactive bounding-box visualization.
@@ -243,11 +172,73 @@ VisionGuard integrates YOLOv10s and COCO-SSD to detect and classify objects in u
 - ⚖️ Model comparison and benchmarking against annotated images.
 - 📥 Exportable detection images and JSON reports.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-"React" "JavaScript" "Vite" "TensorFlow.js" "COCO-SSD" "Hugging Face Transformers.js" "YOLOv10s" "ONNX Runtime"
+`React` `JavaScript` `Vite` `TensorFlow.js` `COCO-SSD` `Hugging Face Transformers.js` `YOLOv10s` `ONNX Runtime`
 
-🔗 "Live Demo" (https://visionguard-six.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/visionguard)
+🔗 [Live Demo](https://visionguard-six.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/visionguard)
+
+ 
+
+## 💼 Experience
+
+**AI-Driven Software Development Intern**
+
+Pantech Solutions India Pvt. Ltd. × SVNIT Surat
+
+📅 April 2026 – May 2026
+
+- Applied AI techniques across the software development lifecycle.
+- Explored AI-driven software development concepts and practical applications.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Hack Revolution 2025:** Shortlisted among the Top 30 teams out of 600+ teams.
+- 🎪 **Envisage 2025:** Participant, MJCET Technical Fest.
+- 📜 **OneRoadmap Skill Certifications:** English, Java, SQL and CSS (September 2025).
+
+---
+
+## 📊 GitHub Statistics
+
+
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibaadmohammed&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://portfolio-react-pi-rose.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ibaad-mohammed-20a998333">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ibaadmohammed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  💬 Always happy to connect, collaborate and discuss Web Development, AI/ML and innovative ideas.
+</p>
+
+<p align="center">
+  <i>"Building today. Innovating tomorrow."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ibaadmohammed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 
 
 ## 💼 Experience
