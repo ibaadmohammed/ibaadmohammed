@@ -108,73 +108,79 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🏙️ CivicOS
-**AI-Powered Civic Accountability & Urban Governance Platform**
+🏙️ CIVICOS
 
-A civic technology platform designed to improve urban accountability through AI-assisted issue reporting, geo-tagging, smart routing, danger-zone heatmaps and MLA performance tracking.
+AI-Powered Civic Accountability & Urban Governance Platform
 
-**Tech:** React, Next.js, TypeScript, PostgreSQL, Leaflet
+CIVICOS is an AI-powered civic technology platform designed to strengthen urban governance, improve public accountability and simplify civic issue reporting. It enables citizens to report infrastructure and sanitation problems such as potholes, damaged roads, garbage accumulation and waterlogging through location-aware reporting.
 
-🔗 [Live Demo](https://civicos-web.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/CIVICOS)
+The platform combines AI-assisted issue understanding, geolocation, intelligent authority assignment, issue tracking and analytics to create a more transparent civic grievance management ecosystem. It also aims to improve accountability through constituency-level insights and geographical visualization of recurring civic problems.
 
----
+Key Features:
 
-### 🩸 BloodBridge
-**Smart Blood Donation & Management Platform**
+- AI-assisted civic issue identification and categorization.
+- Geo-tagged issue reporting and location-based tracking.
+- Intelligent complaint routing to relevant authorities.
+- Civic issue monitoring and status tracking.
+- Geographical heatmaps for identifying high-priority problem areas.
+- Analytics and governance accountability insights.
 
-A blood donation platform connecting donors with people in urgent need through donor registration, blood requests, blood bank discovery, appointment booking, cancellation and donation analytics.
+Tech: Next.js, React, TypeScript, PostgreSQL, Leaflet, AI/ML
 
-**Tech:** React, Node.js, Express.js, PostgreSQL, Leaflet, Chart.js
-
-🔗 [Live Demo](https://blood-bridge-kappa-lilac.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/BloodBridge)
-
----
-
-### 📅 EventSync [Internship Project]
-**Event Management Dashboard**
-
-An event management application to create, manage, search, filter and delete events with browser-based data persistence.
-
-**Tech:** HTML, CSS, JavaScript, React, Tailwind CSS, Vite
-
-🔗 [Live Demo](https://eventsync-delta.vercel.app/)
+🔗 "Live Demo" (https://civicos-web.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/CIVICOS)
 
 ---
 
-### 🚀 LeadFlow AI [Internship Project]
-**CRM & Lead Management Application**
+🩸 BloodBridge
 
-A CRM-style application featuring lead creation, pipeline stage management, search, filtering and analytics metrics.
+Smart Blood Donation, Emergency Response & Management Platform
 
-**Tech:** HTML, CSS, JavaScript, React, Tailwind CSS, Vite
+BloodBridge is a full-stack blood donation and management platform designed to connect blood donors, recipients and blood banks through a centralized digital ecosystem. It aims to simplify the blood donation process, improve donor accessibility and support faster responses to urgent blood requirements.
 
-🔗 [Live Demo](https://leadflow-ai-ten-khaki.vercel.app/)
+The platform provides donor registration, blood request management, blood bank discovery, appointment scheduling, donation cancellation and analytics. It also incorporates an Emergency Blood Alert System for urgent donation requirements and an AI-powered assistant to help users navigate the platform and access relevant information.
 
----
+Key Features:
 
-### 📋 TrackWise [Internship Project]
-**Personal Productivity & Task Management**
+- Donor registration and blood group-based donor directory.
+- Blood request creation and management.
+- Emergency blood alert system.
+- Blood bank discovery with geographical mapping.
+- Donation appointment booking and cancellation.
+- Appointment slot availability and scheduling management.
+- Analytics dashboard for monitoring donors and blood requests.
+- AI-powered Gemini assistant for interactive user support.
 
-A productivity application featuring task priorities, tags, progress tracking and a rule-based virtual assistant.
+Tech: React, JavaScript, Node.js, Express.js, JSON-based data persistence, Leaflet, Chart.js, Google Gemini API
 
-**Tech:** HTML, CSS, JavaScript, React, Tailwind CSS, Vite
-
-🔗 [Live Demo](https://trackwise-phi-ten.vercel.app/)
-
----
-
-### 👁️ VisionGuard [Internship Project]
-**Browser-Based Computer Vision Application**
-
-An image-based object detection application using a pre-trained COCO-SSD machine learning model through TensorFlow.js.
-
-**Tech:** React, TensorFlow.js, COCO-SSD, JavaScript, Vite
-
-🔗 [Live Demo](https://visionguard-six.vercel.app/)
+🔗 "Live Demo" (https://blood-bridge-kappa-lilac.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/BloodBridge)
 
 ---
+
+👁️ VisionGuard
+
+AI-Powered Multi-Model Object Detection & Computer Vision Platform
+
+VisionGuard is a browser-based machine learning and computer vision application developed to explore deep learning-based object detection, multi-model inference and model performance evaluation. It integrates YOLOv10s and COCO-SSD to detect and classify objects in uploaded images through browser-based inference.
+
+The platform provides an interactive detection environment with visual bounding boxes, adjustable confidence thresholds, object class filtering, inference-time measurement and detection analytics. It also introduces ground-truth annotation and model benchmarking capabilities, allowing predictions from different detection models to be evaluated against manually annotated objects.
+
+Key Features:
+
+- Multi-model object detection using YOLOv10s and COCO-SSD.
+- Browser-based inference using Hugging Face Transformers.js and TensorFlow.js.
+- Interactive bounding-box visualization.
+- Adjustable confidence thresholds and object class filtering.
+- Detection counts and inference-time analytics.
+- Manual ground-truth bounding-box annotation.
+- Model comparison and benchmarking.
+- Exportable detection images and JSON reports.
+
+Tech: React, JavaScript, Vite, TensorFlow.js, COCO-SSD, Hugging Face Transformers.js, YOLOv10s, ONNX Runtime
+
+🔗 "Live Demo" (https://visionguard-six.vercel.app/) · "GitHub Repository" (https://github.com/ibaadmohammed/visionguard)
+
 
 ## 💼 Experience
 
