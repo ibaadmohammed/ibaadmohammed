@@ -178,7 +178,7 @@ VisionGuard integrates **YOLOv10s and COCO-SSD** to detect and classify objects 
 
 🔗 [Live Demo](https://visionguard-six.vercel.app/) · [GitHub Repository](https://github.com/ibaadmohammed/visionguard)
 
- 
+--- 
 
 ## 💼 Experience
 
@@ -190,6 +190,18 @@ Pantech Solutions India Pvt. Ltd. × SVNIT Surat
 
 - Applied AI techniques across the software development lifecycle.
 - Explored AI-driven software development concepts and practical applications.
+
+---
+
+**AI Web Development Intern**
+
+InAmigos Foundation
+
+📅 November 2026 – Present
+
+- Developing responsive web applications using modern frontend technologies and AI-assisted development tools.
+- Applying AI-driven approaches to website development, UI/UX enhancement and practical software development tasks.
+- Building and improving web interfaces while gaining hands-on experience in modern web development workflows.
 
 ---
 
