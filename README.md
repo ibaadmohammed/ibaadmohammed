@@ -205,6 +205,8 @@ InAmigos Foundation
 - Developing responsive web applications using modern frontend technologies and AI-assisted development tools.
 - Applying AI-driven approaches to website development, UI/UX enhancement and practical software development tasks.
 - Building and improving web interfaces while gaining hands-on experience in modern web development workflows.
+- Designed an NGO website feature layout in Figma, highlighting donations, volunteering, campaigns, and impact showcases.
+
 
 ---
 
